@@ -8,7 +8,7 @@
 #define CAM_PIN_D5    7
 #define CAM_PIN_D6    8
 #define CAM_PIN_D7    9
-#define CAM_PIN_PCLK 10
-#define CAM_PIN_VSNC 11
-#define CAM_PIN_HREF 12
-#define CAM_PIN_XCLK NULL
+#define CAM_PIN_PCLK  10
+#define CAM_PIN_VSYNC 11
+#define CAM_PIN_HREF  12
+#define CAM_PIN_XCLK  NULL
